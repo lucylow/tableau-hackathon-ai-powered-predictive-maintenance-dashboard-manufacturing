@@ -1,5 +1,5 @@
-[2 tableau hackathon_ AI‑Powered Predictive Maintenance Dashboard (Manufacturing).md](https://github.com/user-attachments/files/24403799/2.tableau.hackathon_.AI.Powered.Predictive.Maintenance.Dashboard.Manufacturing.md)
-# **AI-Powered Predictive Maintenance —** 
+
+# **Tableau : AI-Powered Predictive Maintenance**
 
 *Tableau Cloud \+ Semantic Modeling \+ Agentforce \+ Solana ledger*
 
